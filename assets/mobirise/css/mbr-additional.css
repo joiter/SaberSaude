@@ -1785,18 +1785,6 @@ body {
   font-size: 72px;
   color: #707070;
 }
-.cid-rCcNQUGgdq {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-rCcNQUGgdq .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-rCcNQUGgdq .social-list a:focus {
-  text-decoration: none;
-}
 .cid-rC9eICKTLc {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1814,6 +1802,18 @@ body {
 }
 .cid-rC9eICKTLc .mbr-text {
   color: #767676;
+}
+.cid-rCcNQUGgdq {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rCcNQUGgdq .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rCcNQUGgdq .social-list a:focus {
+  text-decoration: none;
 }
 .cid-rC4yc7ZQoK {
   padding-top: 60px;
